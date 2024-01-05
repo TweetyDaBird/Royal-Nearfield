@@ -1,0 +1,266 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid dd798805-b17d-461a-b4ca-51ca5c328d9c)
+
+  (paper "A3")
+
+  (lib_symbols
+    (symbol "Keyboard_Plate:Spacer_PCB" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+      (property "Reference" "H" (at 0 -1.27 0)
+        (effects (font (size 1.524 1.524)) hide)
+      )
+      (property "Value" "Spacer_PCB" (at 0 1.27 0)
+        (effects (font (size 1.524 1.524)))
+      )
+      (property "Footprint" "Keyboard Common:Spacer PCB hole" (at 0 0 0)
+        (effects (font (size 1.524 1.524)) hide)
+      )
+      (property "Datasheet" "" (at 0 0 0)
+        (effects (font (size 1.524 1.524)) hide)
+      )
+      (symbol "Spacer_PCB_0_1"
+        (circle (center 0 0) (radius 4.0132)
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+      )
+    )
+  )
+
+
+  (symbol (lib_id "Keyboard_Plate:Spacer_PCB") (at 384.556 182.88 0) (unit 1)
+    (in_bom no) (on_board yes) (dnp yes) (fields_autoplaced)
+    (uuid 3cc562f4-cbe3-4164-9b66-3fd14afab55a)
+    (property "Reference" "H9" (at 384.556 184.15 0)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Value" "Spacer_PCB" (at 390.271 182.88 0)
+      (effects (font (size 1.524 1.524)) (justify left))
+    )
+    (property "Footprint" "Keyboard_Plate:Spacer Plate hole" (at 384.556 182.88 0)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Datasheet" "" (at 384.556 182.88 0)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (instances
+      (project "Chameleon v1_10"
+        (path "/9cbb0ce1-ad88-4669-adb0-4b1f4ac042dc"
+          (reference "H9") (unit 1)
+        )
+      )
+      (project "Nearfield RP2040 RP"
+        (path "/dd798805-b17d-461a-b4ca-51ca5c328d9c"
+          (reference "H3") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Keyboard_Plate:Spacer_PCB") (at 384.81 227.33 0) (unit 1)
+    (in_bom no) (on_board yes) (dnp yes) (fields_autoplaced)
+    (uuid 4bcfb6f6-2e78-4fdf-a4a4-8d0856858dc5)
+    (property "Reference" "H3" (at 384.81 228.6 0)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Value" "Spacer_PCB" (at 390.525 227.33 0)
+      (effects (font (size 1.524 1.524)) (justify left))
+    )
+    (property "Footprint" "Keyboard_Plate:Spacer Plate hole" (at 384.81 227.33 0)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Datasheet" "" (at 384.81 227.33 0)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (instances
+      (project "Chameleon v1_10"
+        (path "/9cbb0ce1-ad88-4669-adb0-4b1f4ac042dc"
+          (reference "H3") (unit 1)
+        )
+      )
+      (project "Nearfield RP2040 RP"
+        (path "/dd798805-b17d-461a-b4ca-51ca5c328d9c"
+          (reference "H8") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Keyboard_Plate:Spacer_PCB") (at 384.81 209.296 0) (unit 1)
+    (in_bom no) (on_board yes) (dnp yes) (fields_autoplaced)
+    (uuid 88ce7e55-286d-4d70-9e8f-5515919d23ce)
+    (property "Reference" "H1" (at 384.81 210.566 0)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Value" "Spacer_PCB" (at 390.525 209.296 0)
+      (effects (font (size 1.524 1.524)) (justify left))
+    )
+    (property "Footprint" "Keyboard_Plate:Spacer Plate hole" (at 384.81 209.296 0)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Datasheet" "" (at 384.81 209.296 0)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (instances
+      (project "Chameleon v1_10"
+        (path "/9cbb0ce1-ad88-4669-adb0-4b1f4ac042dc"
+          (reference "H1") (unit 1)
+        )
+      )
+      (project "Nearfield RP2040 RP"
+        (path "/dd798805-b17d-461a-b4ca-51ca5c328d9c"
+          (reference "H6") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Keyboard_Plate:Spacer_PCB") (at 384.556 165.354 0) (unit 1)
+    (in_bom no) (on_board yes) (dnp yes) (fields_autoplaced)
+    (uuid bba215a6-97ee-4ab4-8dd6-0dbfdc718381)
+    (property "Reference" "H10" (at 384.556 166.624 0)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Value" "Spacer_PCB" (at 390.271 165.354 0)
+      (effects (font (size 1.524 1.524)) (justify left))
+    )
+    (property "Footprint" "Keyboard_Plate:Spacer Plate hole" (at 384.556 165.354 0)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Datasheet" "" (at 384.556 165.354 0)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (instances
+      (project "Chameleon v1_10"
+        (path "/9cbb0ce1-ad88-4669-adb0-4b1f4ac042dc"
+          (reference "H10") (unit 1)
+        )
+      )
+      (project "Nearfield RP2040 RP"
+        (path "/dd798805-b17d-461a-b4ca-51ca5c328d9c"
+          (reference "H1") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Keyboard_Plate:Spacer_PCB") (at 384.683 200.406 0) (unit 1)
+    (in_bom no) (on_board yes) (dnp yes) (fields_autoplaced)
+    (uuid c12b1e69-3527-4908-9181-5af6cb1f83b2)
+    (property "Reference" "H6" (at 384.683 201.676 0)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Value" "Spacer_PCB" (at 390.398 200.406 0)
+      (effects (font (size 1.524 1.524)) (justify left))
+    )
+    (property "Footprint" "Keyboard_Plate:Spacer Plate hole" (at 384.683 200.406 0)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Datasheet" "" (at 384.683 200.406 0)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (instances
+      (project "Chameleon v1_10"
+        (path "/9cbb0ce1-ad88-4669-adb0-4b1f4ac042dc"
+          (reference "H6") (unit 1)
+        )
+      )
+      (project "Nearfield RP2040 RP"
+        (path "/dd798805-b17d-461a-b4ca-51ca5c328d9c"
+          (reference "H5") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Keyboard_Plate:Spacer_PCB") (at 384.556 174.117 0) (unit 1)
+    (in_bom no) (on_board yes) (dnp yes) (fields_autoplaced)
+    (uuid c395e8df-26e3-4f4c-ba00-83cdbdb9e234)
+    (property "Reference" "H8" (at 384.556 175.387 0)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Value" "Spacer_PCB" (at 390.271 174.117 0)
+      (effects (font (size 1.524 1.524)) (justify left))
+    )
+    (property "Footprint" "Keyboard_Plate:Spacer Plate hole" (at 384.556 174.117 0)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Datasheet" "" (at 384.556 174.117 0)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (instances
+      (project "Chameleon v1_10"
+        (path "/9cbb0ce1-ad88-4669-adb0-4b1f4ac042dc"
+          (reference "H8") (unit 1)
+        )
+      )
+      (project "Nearfield RP2040 RP"
+        (path "/dd798805-b17d-461a-b4ca-51ca5c328d9c"
+          (reference "H2") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Keyboard_Plate:Spacer_PCB") (at 384.683 191.643 0) (unit 1)
+    (in_bom no) (on_board yes) (dnp yes) (fields_autoplaced)
+    (uuid c92c1037-6be6-4808-84bc-fa412ebb43e7)
+    (property "Reference" "H7" (at 384.683 192.913 0)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Value" "Spacer_PCB" (at 390.398 191.643 0)
+      (effects (font (size 1.524 1.524)) (justify left))
+    )
+    (property "Footprint" "Keyboard_Plate:Spacer Plate hole" (at 384.683 191.643 0)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Datasheet" "" (at 384.683 191.643 0)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (instances
+      (project "Chameleon v1_10"
+        (path "/9cbb0ce1-ad88-4669-adb0-4b1f4ac042dc"
+          (reference "H7") (unit 1)
+        )
+      )
+      (project "Nearfield RP2040 RP"
+        (path "/dd798805-b17d-461a-b4ca-51ca5c328d9c"
+          (reference "H4") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Keyboard_Plate:Spacer_PCB") (at 384.81 218.313 0) (unit 1)
+    (in_bom no) (on_board yes) (dnp yes) (fields_autoplaced)
+    (uuid ddb70a61-a99e-4cc8-b54a-a5901d836916)
+    (property "Reference" "H2" (at 384.81 219.583 0)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Value" "Spacer_PCB" (at 390.525 218.313 0)
+      (effects (font (size 1.524 1.524)) (justify left))
+    )
+    (property "Footprint" "Keyboard_Plate:Spacer Plate hole" (at 384.81 218.313 0)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Datasheet" "" (at 384.81 218.313 0)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (instances
+      (project "Chameleon v1_10"
+        (path "/9cbb0ce1-ad88-4669-adb0-4b1f4ac042dc"
+          (reference "H2") (unit 1)
+        )
+      )
+      (project "Nearfield RP2040 RP"
+        (path "/dd798805-b17d-461a-b4ca-51ca5c328d9c"
+          (reference "H7") (unit 1)
+        )
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
