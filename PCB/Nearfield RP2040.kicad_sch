@@ -4,6 +4,16 @@
 
   (paper "A3")
 
+  (title_block
+    (title "Royal Nearfield PCB")
+    (date "2024-01-07")
+    (rev "v1.00")
+    (company "Tweety's Wild Thinking")
+    (comment 1 "Markus Knutsson <markus.knutsson@tweety.se>")
+    (comment 2 "https://github.com/TweetyDaBird")
+    (comment 3 "Licensed under Creative Commons BY-SA 4.0 International")
+  )
+
   (lib_symbols
     (symbol "Connector_Generic:Conn_01x04" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "J" (at 0 5.08 0)
@@ -6217,6 +6227,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 120.65 177.8 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC" "C588524" (at 120.65 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 727e3332-a109-4f94-a9d8-f589f2d66383))
