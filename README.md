@@ -22,3 +22,9 @@ An Alice type keyboard inspired by Nearfield
 ### Optional add-ons:
 - 1-3x Rotary encoders
 - ?9x SK6803 mini-e RGB LEDs
+
+### Parts needed to complete a working keyboard
+- ?70x Cherry MX compatible switches. 
+- 1 set keycaps.
+- 2-3x 2u Cherry MX compatible PCB mounted stabulizers. (One can be swapped for a 3u). 
+- 1x USB-C to (USB-C or USB A) cable. 
