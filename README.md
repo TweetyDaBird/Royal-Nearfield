@@ -12,11 +12,11 @@ An Alice type keyboard inspired by Nearfield
 - 1x Sandwich type case 
   - 1x Front plate
   - 1x Rear plate
-- Mounting Hardware for case
-  - ?20x M2.5 button head or countersunk bolts 4-6 mm long
-  - ?10x M2.5 brass spacers 10 mm long
-  - 2x M3 bolts 4 mm long. 
-  - 2x M3 nuts. 
+  - Mounting Hardware for case
+    - ?20x M2.5 button head or countersunk bolts 4-6 mm long
+    - ?10x M2.5 brass spacers 10 mm long
+    - 2x M3 bolts 4 mm long. 
+    - 2x M3 nuts. 
 
 
 ### Optional add-ons:
