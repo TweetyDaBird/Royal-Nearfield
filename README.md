@@ -16,7 +16,8 @@ An Alice type keyboard inspired by Nearfield
     - ?20x M2.5 button head or countersunk bolts 4-6 mm long
     - ?10x M2.5 brass spacers 10 mm long
     - 2x M3 bolts 4 mm long. 
-    - 2x M3 nuts. 
+    - 2x M3 nuts.
+    - 6-8x Rubber feet  
 
 
 ### Optional add-ons:
