@@ -26,5 +26,5 @@ An Alice type keyboard inspired by Nearfield
 ### Parts needed to complete a working keyboard
 - ?70x Cherry MX compatible switches. 
 - 1 set keycaps.
-- 2-3x 2u Cherry MX compatible PCB mounted stabulizers. (One can be swapped for a 3u). 
+- 2-3x 2u Cherry MX compatible PCB mounted stabilizzers. (One can be swapped for a 3u). 
 - 1x USB-C to (USB-C or USB A) cable. 
