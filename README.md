@@ -17,7 +17,7 @@ An Alice type keyboard inspired by Nearfield
     - 8x M2.5 brass spacers 10 mm long
     - 2x M3 bolts 4 mm long. 
     - 2x M3 nuts.
- - 8x Stick on rubber feet
+  - 8x Stick on rubber feet
 
 
 ### Optional add-ons:
